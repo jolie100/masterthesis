@@ -1,0 +1,55 @@
+Source,Property,Value
+ndc_cait,Published Title (If not English),N/A
+ndc_cait,Published Language,English
+ndc_cait,Citation,"CAIT Climate Data Explorer. 2016. CAIT Paris Contributions Map. Washington, DC: World Resources Institute. Available at: http://cait.wri.org/indcs/"
+ndc_cait,Link to License or Terms of Service,https://creativecommons.org/licenses/by/4.0/
+ndc_cait,Summary of License,Creative Commons Attribution-NonCommercial 4.0 International license
+ndc_cait,Frequency of Updates: annual; every x years/months/days; no updates planned,As available
+ndc_cait,Date of Content: List all years; for multiple years (2001 - 2014),"First published 2015, updates on INDC/NDC submissions on regular basis"
+ndc_cait,Geographic Coverage: global; quasi-global; select regions/countries,Global
+ndc_cait,Cautions: Known use limitations/cautions regarding: geographic/content coverage; source (inconsistency); methodology ,"The CAIT Paris Contributions Map does not evaluate ambition per se. Rather, the tool focuses on making INDCs transparent and accessible, aiming to facilitate others' assessments of ambition, equity, and other factors."
+ndc_cait,"Description: 
+Recap data name, source organization
+Objectives/ data type/ Methodology","CAIT Paris Contributions Map provides information from country (I)NDCs including INDC targets, reference points, time frame, scope and coverage, planning process, assumptions and methodologies etc. extracted from (I)NDCs."
+ndc_cait,"Function/Summary: Tagline description of what data says 
+(150 character limit)",Analysis of INDC/NDC contents
+ndc_cait,Learn More Link,http://cait.wri.org/indc/
+ndc_cait,Source Organization,World Resources Institute
+ndc_cait,Technical Title,CAIT Paris Contributions Map: Summary and Analysis of INDC/NDC contents
+ndc_cait,Title (75 character limit),CAIT Paris Contributions Map
+ndc_die,Title (75 character limit),NDC Explorer
+ndc_die,Published Title (If not English),N/A
+ndc_die,Published Language,English
+ndc_die,Citation,"Pauw, W.P, Cassanmagnano, D., Mbeva, K., Hein, J., Guarin, A., Brandi, C., Dzebo, A., Canales, N., Adams, K.M., Atteridge, A., Bock, T., Helms, J., Zalewski, A., Fromm. E., Lindener, A., Muhammad, D. (2016). NDC Explorer. German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), African Centre for Technology Studies (ACTS), Stockholm Environment Institute (SEI). DOI: 10.23661/ndc_explorer_2017_2.0"
+ndc_die,Link to License or Terms of Service,https://creativecommons.org/licenses/by/4.0/
+ndc_die,Summary of License,The German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) holds the copyright to the NDC Explorer and the database that it is based on. Both are licenced under Creative Commons CC BY 4.0.
+ndc_die,Frequency of Updates: annual; every x years/months/days; no updates planned,As available
+ndc_die,Date of Content: List all years; for multiple years (2001 - 2014),"First published 2016, updates on INDC/NDC submissions on regular basis"
+ndc_die,Geographic Coverage: global; quasi-global; select regions/countries,Global
+ndc_die,Cautions: Known use limitations/cautions regarding: geographic/content coverage; source (inconsistency); methodology ,"All data is collected and coded manually from the INDCs and NDCs. The database builds on earlier databases by DIE and the UNFCCC secretariat. With a few exceptions, every subcategory is independent. The country groupings are based on World Bank data on per capita income and the World Bank regions. The original databases of DIE and the UNFCCC secretariat were tested and occasionally improved based on samples. New data is collected by trained analysts, and checked by peers and the project leader. Mistakes pointed out by users are constantly corrected."
+ndc_die,"Description: 
+Recap data name, source organization
+Objectives/ data type/ Methodology","The NDC Explorer is an online tool to analyse and compare (Intended) Nationally Determined Contributions (INDCs/NDCs). In 2013, the parties to the United Nations Framework Convention on Climate Change (UNFCCC) decided that every member state would submit an 'Intended Nationally Determined Contribution' (INDC). Countries based their INDCs on their specific national priorities, circumstances, and capabilities. The INDCs proved to be a cornerstone to reach the Paris Agreement. Every party that ratifies the Paris Agreement is invited to turn its INDC into a NDC. First and foremost, NDCs intend to increase the ambition to reduce global greenhouse gas emissions, by outlining countries ""contributions"". However, most countries also use the opportunity to write about other priorities and ambitions, such as adaptation and finance needs. Countries also used their (I)NDC to highlight other important issues, such as fossil fuel subsidy reform or linkages to Sustainable Development Goals (SDGs). The NDC Explorer has two aims. First, it provides a neutral, sophisticated and user-friendly lens to analyse and compare both qualitative and quantitative (I)NDC content. Second, the NDC Explorer stimulates the debate on content, scope as well as formulation and implementation processes of the national climate action plans. In doing so, it supports policy makers in formulating improved and more ambitious (I)NDCs in 2020 and thereafter."
+ndc_die,"Function/Summary: Tagline description of what data says 
+(150 character limit)",Analyse and compare (Intended) National Determined Contributions
+ndc_die,Learn More Link,https://klimalog.die-gdi.de/ndc/
+ndc_die,Source Organization,"German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), Stockholm Environment Institute (SEI), African Center for Technology Studies (ACTS)"
+ndc_die,Technical Title,NDC Explorer
+ndc_wb,Published Title (If not English),N/A
+ndc_wb,Published Language,English
+ndc_wb,Citation,World Bank. 2017. Intended Nationally Determined Contributions (INDCs). Accessed October 5. http://spappssecext.worldbank.org/sites/indc/Pages/INDCHome.aspx.
+ndc_wb,Link to License or Terms of Service,https://data.worldbank.org/summary-terms-of-use
+ndc_wb,Summary of License,"You are free to copy, distribute, adapt, display or include the data in other products for commercial and noncommercial purposes at no cost subject to certain limitations"
+ndc_wb,Frequency of Updates: annual; every x years/months/days; no updates planned,As available
+ndc_wb,Date of Content: List all years; for multiple years (2001 - 2014),"First published 2016, updates on INDC/NDC submissions on regular basis"
+ndc_wb,Geographic Coverage: global; quasi-global; select regions/countries,Global
+ndc_wb,Cautions: Known use limitations/cautions regarding: geographic/content coverage; source (inconsistency); methodology ,All data collected in this database comes strictly from the (I)NDCs only; all implementation cost estimates are self-reported in the (I)NDCs. No analysis or interpretation of the information submitted by the countries has been undertaken.
+ndc_wb,"Description: 
+Recap data name, source organization
+Objectives/ data type/ Methodology","The World Bank NDC Platform includes detailed adaptation/mitigation database, a content visualization tool, and summary country briefs."
+ndc_wb,"Function/Summary: Tagline description of what data says 
+(150 character limit)",Analysis of INDC/NDC contents
+ndc_wb,Learn More Link,http://indc.worldbank.org
+ndc_wb,Source Organization,World Bank
+ndc_wb,Technical Title,World Bank NDC Platform: Summary and Analysis of INDC/NDC contents
+ndc_wb,Title (75 character limit),World Bank NDC Platform
